@@ -1,7 +1,7 @@
-# Sweet React Componenet
+# Sweet React Component
 
 #### Quickstart
 
 ```
-npm i sweet-react-component
+npm i super-sweet-react-component-niki
 ```
