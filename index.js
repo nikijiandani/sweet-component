@@ -1,3 +1,5 @@
+const React = require('react')
+
 module.exports = props => 
 <div>
   `This is <b>really sweet</b> ${props.emoji && '😍'}`

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nikijiandani/sweet-component/issues"
   },
-  "homepage": "https://github.com/nikijiandani/sweet-component#readme"
+  "homepage": "https://github.com/nikijiandani/sweet-component#readme",
+  "devDependencies": {
+    "react": "^16.8.6"
+  }
 }
