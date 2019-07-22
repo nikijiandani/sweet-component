@@ -1,2 +1,5 @@
 module.exports = props => 
-`This is really sweet ${props.emoji && '😍'}`
+<div>
+  `This is <b>really sweet</b> ${props.emoji && '😍'}`
+  `This is also a really sweet ${props.emoji && '😍'}`
+</div>
